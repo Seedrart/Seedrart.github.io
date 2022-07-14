@@ -77,8 +77,11 @@
               "text-align": "left"
             },
             "@media (max-width: 991px)": {
-              ".mbr-section-title, .mbr-section-btn, .mbr-text": {
+              ".mbr-section-title, .mbr-section-btn": {
                 "text-align": "center"
+              },
+              ".mbr-text": {
+                "text-align": "left"
               }
             }
           },
