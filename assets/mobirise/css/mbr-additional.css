@@ -2410,6 +2410,35 @@ a {
 .cid-taM8Ac0R6c .item-subtitle {
   text-align: left;
 }
+.cid-torNGL7qJq {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-torNGL7qJq .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-torNGL7qJq .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-torNGL7qJq .mbr-text,
+.cid-torNGL7qJq .mbr-section-btn {
+  color: #232323;
+}
+.cid-torNGL7qJq .card-title,
+.cid-torNGL7qJq .card-box {
+  color: #ffffff;
+}
+.cid-torNGL7qJq .mbr-text,
+.cid-torNGL7qJq .link-wrap {
+  color: #ffffff;
+}
 .cid-taMcdx6vWi {
   padding-top: 0rem;
   padding-bottom: 5rem;
