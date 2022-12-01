@@ -2433,11 +2433,15 @@ a {
 }
 .cid-torNGL7qJq .card-title,
 .cid-torNGL7qJq .card-box {
-  color: #ffffff;
+  color: #ffe161;
 }
 .cid-torNGL7qJq .mbr-text,
 .cid-torNGL7qJq .link-wrap {
   color: #ffffff;
+}
+.cid-torNGL7qJq .card-box .mbr-text,
+.cid-torNGL7qJq .mbr-section-btn {
+  color: #000000;
 }
 .cid-taMcdx6vWi {
   padding-top: 0rem;
