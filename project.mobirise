@@ -3335,6 +3335,9 @@
                   "padding-right": "4rem"
                 }
               }
+            },
+            ".mbr-description": {
+              "text-align": "left"
             }
           },
           "_name": "video4",
